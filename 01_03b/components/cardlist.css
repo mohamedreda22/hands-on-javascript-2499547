@@ -18,3 +18,15 @@
 .image__caption {
   padding: 0.5rem 1rem;
 }
+ul{
+  align-items: center;
+  justify-content: center;
+
+}
+li{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-width: 200px;
+  position: relative;
+}
